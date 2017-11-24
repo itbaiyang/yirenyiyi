@@ -1,0 +1,36 @@
+
+.page5-t-wrap{
+    height:100%;
+    background: #EA525E;
+}
+.t-title-page5{
+    width: 100%;
+    padding-top: .5rem;
+    margin: 0;
+    line-height: 1.5rem;
+    text-align: center;
+    color: #fff;
+}
+.t-page5-text{
+    color: #fff;
+    font-size: .9rem;
+}
+.t-page5-text img{
+    height:6.8rem;
+    width: 6.5rem;
+}
+.t-logo{
+    left: 0;
+right: 0;
+    margin: auto;
+}
+.t-house{
+    position: absolute;
+    left: 50%;
+    bottom: .4rem;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+}

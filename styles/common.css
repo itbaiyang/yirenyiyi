@@ -1,0 +1,52 @@
+img {
+    width: 100%;
+}
+html, body{
+    height: 100%;
+}
+.opacity{
+    opacity: .88;
+}
+.swiper-container{
+    height: 100%;
+}
+.swiper-wrapper{
+    height: 100%;
+}
+.swiper-slide{
+    height: auto;
+}
+.pink{
+    color: #EA545E;
+}
+.bg-pink{
+    background: #EA545E;
+}
+body {
+  line-height: 1.48573;
+  font-size: 0.373333rem;
+  font-family: "DIN-Medium", "Helvetica", "PingFangSC-Regular", "Microsoft YaHei", "\534E\6587\7EC6\9ED1", "\5FAE\8F6F\96C5\9ED1", Arial, STXihei, SimSun;
+  -webkit-font-smoothing: antialiased;
+  color: #333;
+  background-color: #eee;
+  width: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  background-color: transparent !important;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #666;
+}
+
+img {
+  vertical-align: top;
+}

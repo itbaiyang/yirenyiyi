@@ -1,0 +1,37 @@
+.t-slider {
+    height: 100%;
+    background: yellow;
+}
+
+.t-left-top {
+    height: 11.8rem;
+    width: 11.75rem;
+}
+
+.t-title {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    line-height: 1.5rem;
+    text-align: center;
+    color: #fff;
+}
+
+#t-utiWrap,#t-utiWrap-5w {
+    text-align: justify;
+    width: 10rem;
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#t-uti,#t-page5-num {
+    float: left;
+    color: #EA525E;
+    font-size: 6.85rem;
+}
